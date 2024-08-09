@@ -1,1 +1,1 @@
-DEFAULT_FOLDER = crkbd/rev-hdtx
+DEFAULT_FOLDER = crkbd/rev_hdtx
